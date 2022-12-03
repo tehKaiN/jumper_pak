@@ -1,9 +1,9 @@
 # Jumper Pak
 
-<center>
+<div style="display: flex; flex-direction: row; justify-content: center;">
 <img src="img/front.png" style="width: 45%">
 <img src="img/back.png" style="width: 45%">
-</center>
+</div>
 
 This is an open-source Nintendo 64 Jumper Pak replacement.
 Dimensions are captured from the original with caliper, with slight modifications.
