@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Vterm
+D RDRAM termination voltage (2.56V)
+K power-flag
+$ENDCMP
+#
+$CMP n64_exp
+D Generic connector, single row, 01x36, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library
