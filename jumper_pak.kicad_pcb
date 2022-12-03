@@ -2567,7 +2567,7 @@
   (gr_line (start 135.4 107.5) (end 135.4 96.7) (layer "Edge.Cuts") (width 0.05) (tstamp 04a87604-a383-46cc-b254-a51811ef382a))
   (gr_line (start 108.9 107.5) (end 108.9 96.7) (layer "Edge.Cuts") (width 0.05) (tstamp 1e5eed80-9619-42af-9470-ed0d814615d0))
   (gr_line (start 108.9 107.5) (end 135.4 107.5) (layer "Edge.Cuts") (width 0.05) (tstamp f9bb853f-98d2-4b3c-868b-99e954ae83d2))
-  (gr_text "github.com/teh_KaiN/jumper_pak" (at 122.76 84.02) (layer "B.SilkS") (tstamp 69857752-32ad-4a4c-898c-bd1b07ed0119)
+  (gr_text "github.com/tehKaiN/jumper_pak" (at 122.76 84.02) (layer "B.SilkS") (tstamp 69857752-32ad-4a4c-898c-bd1b07ed0119)
     (effects (font (size 1 0.8) (thickness 0.12)) (justify mirror))
   )
 
